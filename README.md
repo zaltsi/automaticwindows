@@ -1,4 +1,4 @@
-# automaticwindows: Setup hypixel for hypixel/megawalls!
+# automaticwindows: Setup windows for hypixel/megawalls!
 Code Written by ZaltsiAnatolikk
 
 # what features you getting?
