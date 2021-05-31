@@ -121,8 +121,6 @@ move "%temp%\1.8.9.FKCounter-2.0.jar" "C:\Users\%username%\AppData\Roaming\.mine
 powershell Invoke-Webrequest "https://cdn.discordapp.com/attachments/848853713992286228/848853757685006366/Powns_Ghost_Liquid_Fix.jar" -Outfile "%temp%\Powns_Ghost_Liquid_Fix.jar" 
 move "%temp%\Powns_Ghost_Liquid_Fix.jar" "C:\Users\%username%\AppData\Roaming\.minecraft\mods"
 
-powershell Invoke-Webrequest "https://cdn.discordapp.com/attachments/848853713992286228/848853771563171840/UnNickMod-1.0-1.8.9.jar" -Outfile "%temp%\UnNickMod-1.0-1.8.9.jar" 
-move "%temp%\UnNickMod-1.0-1.8.9.jar" "C:\Users\%username%\AppData\Roaming\.minecraft\mods"
 
 powershell Invoke-Webrequest "https://cdn.discordapp.com/attachments/848853713992286228/848853844117291028/PatcherAddons-1.0-1.8.9.jar" -Outfile "%temp%\PatcherAddons-1.0-1.8.9.jar" 
 move "%temp%\PatcherAddons-1.0-1.8.9.jar" "C:\Users\%username%\AppData\Roaming\.minecraft\mods"
