@@ -7,3 +7,7 @@ Code Written by ZaltsiAnatolikk
 * Mod folder with private mega walls mod
 * invisible letter so you can chat bypass in hypixel
 * log/specglitch mod for mega walls
+
+# Huge Credits!
+* Theflowerpotman - made the autohotkeys
+* shtruz - helped me code log/specglitch and some of the mods in the mod folder he coded
